@@ -9,12 +9,12 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
-    color: #333;
+    color: #292424;
 }
 
 a {
     text-decoration: none;
-    color: #007BFF;
+    color: #548ecc;
 }
 
 a:hover {
@@ -23,8 +23,8 @@ a:hover {
 
 /* Header Styles */
 header {
-    background: #333;
-    color: #fff;
+    background: #443434;
+    color: #baa4a4;
     padding: 20px 0;
 }
 
